@@ -6,11 +6,12 @@ namespace HelloWorld // This is a namespace that contains the Program class. Nam
     {
         static void Main(string[] args) // This is the entry point of the program. The Main method is the first method that gets called when the program is run.
         {
-            Console.WriteLine("Hello World!"); // This is a method that writes the string "Hello World!" to the console.
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("Hello My Name Is Shane Cummings!"); // This is a method that writes the string "Hello World!" to the console.
+            Console.WriteLine("My Banner ID is B01740631.");
+            Console.Write("Press any key to exit...");//writeline is a method that writes a string to the console and moves to the next line, write is a method that writes a string to the console and stays on the same line
             Console.ReadKey(); // This is a method that waits for the user to press a key before exiting the program.
         }
     }
 }
 
-// run dotnet build after saving the file
+// run dotnet build after saving the file, BEFORE you Dotnet run!
