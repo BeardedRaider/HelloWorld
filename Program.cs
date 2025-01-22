@@ -11,3 +11,4 @@ namespace HelloWorld // This is a namespace that contains the Program class. Nam
     }
 }
 
+// run dotnet build after saving the file
