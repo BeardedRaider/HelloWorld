@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
