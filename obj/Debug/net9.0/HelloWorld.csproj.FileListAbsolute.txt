@@ -13,3 +13,18 @@ C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\HelloWorld\obj\De
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+c:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
